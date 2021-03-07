@@ -1,0 +1,11 @@
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/bin/Debug/netstandard2.0/DigiDesp.Driver.Infra.Data.deps.json
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/bin/Debug/netstandard2.0/DigiDesp.Driver.Infra.Data.dll
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/bin/Debug/netstandard2.0/DigiDesp.Driver.Infra.Data.pdb
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/bin/Debug/netstandard2.0/DigiDesp.Driver.Domain.dll
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/bin/Debug/netstandard2.0/DigiDesp.Driver.Domain.pdb
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/obj/Debug/netstandard2.0/DigiDesp.Driver.Infra.Data.csprojAssemblyReference.cache
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/obj/Debug/netstandard2.0/DigiDesp.Driver.Infra.Data.AssemblyInfoInputs.cache
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/obj/Debug/netstandard2.0/DigiDesp.Driver.Infra.Data.AssemblyInfo.cs
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/obj/Debug/netstandard2.0/DigiDesp.Driver.Infra.Data.csproj.CopyComplete
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/obj/Debug/netstandard2.0/DigiDesp.Driver.Infra.Data.dll
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Infra.Data/obj/Debug/netstandard2.0/DigiDesp.Driver.Infra.Data.pdb

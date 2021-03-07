@@ -1,0 +1,8 @@
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.Domain/bin/Debug/netstandard2.0/DigiDesp.Drivers.Domain.deps.json
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.Domain/bin/Debug/netstandard2.0/DigiDesp.Drivers.Domain.dll
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.Domain/bin/Debug/netstandard2.0/DigiDesp.Drivers.Domain.pdb
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.Domain/obj/Debug/netstandard2.0/DigiDesp.Drivers.Domain.AssemblyInfoInputs.cache
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.Domain/obj/Debug/netstandard2.0/DigiDesp.Drivers.Domain.AssemblyInfo.cs
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.Domain/obj/Debug/netstandard2.0/DigiDesp.Drivers.Domain.dll
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.Domain/obj/Debug/netstandard2.0/DigiDesp.Drivers.Domain.pdb
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.Domain/obj/Debug/netstandard2.0/DigiDesp.Drivers.Domain.csprojAssemblyReference.cache

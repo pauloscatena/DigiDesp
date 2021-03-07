@@ -1,0 +1,15 @@
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/obj/Debug/netstandard2.0/DigiDesp.Drivers.CrossCutting.IoC.csprojAssemblyReference.cache
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/obj/Debug/netstandard2.0/DigiDesp.Drivers.CrossCutting.IoC.AssemblyInfoInputs.cache
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/obj/Debug/netstandard2.0/DigiDesp.Drivers.CrossCutting.IoC.AssemblyInfo.cs
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/bin/Debug/netstandard2.0/DigiDesp.Drivers.CrossCutting.IoC.deps.json
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/bin/Debug/netstandard2.0/DigiDesp.Drivers.CrossCutting.IoC.dll
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/bin/Debug/netstandard2.0/DigiDesp.Drivers.CrossCutting.IoC.pdb
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/bin/Debug/netstandard2.0/DigiDesp.Drivers.Application.dll
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/bin/Debug/netstandard2.0/DigiDesp.Drivers.Domain.dll
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/bin/Debug/netstandard2.0/DigiDesp.Drivers.Infra.Data.dll
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/bin/Debug/netstandard2.0/DigiDesp.Drivers.Application.pdb
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/bin/Debug/netstandard2.0/DigiDesp.Drivers.Domain.pdb
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/bin/Debug/netstandard2.0/DigiDesp.Drivers.Infra.Data.pdb
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/obj/Debug/netstandard2.0/DigiDesp.Drivers.CrossCutting.IoC.csproj.CopyComplete
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/obj/Debug/netstandard2.0/DigiDesp.Drivers.CrossCutting.IoC.dll
+/home/paulo/projetos/digidesp/src/Drivers/DigiDesp.Drivers.CrossCutting.IoC/obj/Debug/netstandard2.0/DigiDesp.Drivers.CrossCutting.IoC.pdb

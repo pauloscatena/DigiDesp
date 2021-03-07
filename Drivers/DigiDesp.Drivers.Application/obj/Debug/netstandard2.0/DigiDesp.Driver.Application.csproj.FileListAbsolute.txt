@@ -1,0 +1,8 @@
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Application/bin/Debug/netstandard2.0/DigiDesp.Driver.Application.deps.json
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Application/bin/Debug/netstandard2.0/DigiDesp.Driver.Application.dll
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Application/bin/Debug/netstandard2.0/DigiDesp.Driver.Application.pdb
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Application/obj/Debug/netstandard2.0/DigiDesp.Driver.Application.csprojAssemblyReference.cache
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Application/obj/Debug/netstandard2.0/DigiDesp.Driver.Application.AssemblyInfoInputs.cache
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Application/obj/Debug/netstandard2.0/DigiDesp.Driver.Application.AssemblyInfo.cs
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Application/obj/Debug/netstandard2.0/DigiDesp.Driver.Application.dll
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Application/obj/Debug/netstandard2.0/DigiDesp.Driver.Application.pdb

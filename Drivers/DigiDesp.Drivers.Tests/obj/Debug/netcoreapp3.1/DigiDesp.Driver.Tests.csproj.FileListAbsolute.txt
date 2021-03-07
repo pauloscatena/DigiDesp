@@ -1,0 +1,3 @@
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Tests/obj/Debug/netcoreapp3.1/DigiDesp.Driver.Tests.csprojAssemblyReference.cache
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Tests/obj/Debug/netcoreapp3.1/DigiDesp.Driver.Tests.AssemblyInfoInputs.cache
+/home/paulo/projetos/digidesp/src/Driver/DigiDesp.Driver.Tests/obj/Debug/netcoreapp3.1/DigiDesp.Driver.Tests.AssemblyInfo.cs
